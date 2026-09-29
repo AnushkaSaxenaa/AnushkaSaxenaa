@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Anushka 👋</h2>
 <p align="center">
   🎓 Data Science Enthusiast | 🧠 Curious Learner | 📍 Lucknow, India <br>
-  👩‍💻 BS Data Science & Applications Student @ IIT Madras | B.Sc. (hons) with Research in Statistics @ Lucknow University <br>
+  👩‍💻 BS Data Science & Applications Student @ IIT Madras | B.Sc. in Mathematics and Statistics @ Lucknow University <br>
   💡 I love using data to solve real-world problems.
 </p>
 
